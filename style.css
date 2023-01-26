@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'cursed_timer_ulilregular';
+  src: url('cursedtimerulil-aznm-webfont.woff2') format('woff2'),
+    url('cursedtimerulil-aznm-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+body {
+  margin: 0
+}
+
+
+h3 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  font-size: 45px;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-family: 'Cursed Timer ULiL',Arial,sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  background: black;
+  height: 125px;
+  width: 150px;
+  color: #F94F6D;
+  font-size: 65px;
+  text-align: center;
+  align-items: center;
+
+}
+
+
+button {
+  font-family: 'Cursed Timer ULiL',Arial,sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  width: 46px;
+  height: 46px;
+  border: 2px solid #9AABD8;
+  background: none;
+  border-radius: 8px;
+  color: #9AABD8;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  background: #1B244A;
+  padding: 50px;
+  padding-bottom: 100px;
+}
+
+
